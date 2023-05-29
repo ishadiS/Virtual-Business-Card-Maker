@@ -1,0 +1,27 @@
+.bg-image {
+  background-size: cover;
+  position: relative;
+  background-repeat: no-repeat;
+}
+
+.profile-header {
+  transform: translateY(5rem);
+}
+
+.card-bg-color {
+  color: var(--card-bg-color);
+}
+
+.contact-details .icon-circle {
+  display: flex;
+  text-align: center;
+  justify-content: center;
+  align-items: center;
+  background-color: var(--card-bg-color);
+  color: #fff;
+  font-size: 21px;
+  height: 42px;
+  width: 42px;
+  padding: 0 10px;
+}
+

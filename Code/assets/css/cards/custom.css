@@ -1,0 +1,54 @@
+body {
+background-image: var(--card-bg-image);
+overflow-x: hidden;
+background-color: var(--card-bg-color);
+}
+
+.contact-details {
+padding: 8px 0;
+list-style-type: none;
+font-size: 1rem;
+line-height: 1.75rem;
+text-decoration: inherit;
+text-transform: inherit;
+margin: 0;
+font-weight: 400;
+letter-spacing: .009375em;
+}
+
+.contact-details-item {
+display: -webkit-flex;
+display: -moz-box;
+padding: 0.4rem 0rem;
+color: #212529;
+display: flex;
+overflow: hidden;
+height: auto;
+justify-content: flex-start;
+cursor: pointer;
+position: relative;
+-webkit-align-items: center;
+-moz-box-align: center;
+align-items: center;
+-webkit-justify-content: flex-start;
+-moz-box-pack: start;
+}
+
+.contact-details a {
+text-decoration: none;
+}
+
+.contact-details-item h6 {
+font-size: 1.1rem;
+}
+
+.contact-details .icon-circle .fab {
+    font-size: 21px;
+}
+
+.gallery.gallery-md .gallery-item{
+    float: none;
+    width: 129px;
+    height: 129px;
+    margin: 1px;
+}

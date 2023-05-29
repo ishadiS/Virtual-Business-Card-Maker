@@ -1,0 +1,40 @@
+.social-button {
+width: 40px;
+height: 40px;
+outline: 0 !important;
+cursor: pointer;
+font-size: 15px;
+border: none;
+margin-right: 10px;
+border-radius: 50%;
+background: linear-gradient(145deg, #d6d6d6, #ffffff);
+box-shadow: 20px 20px 60px #cacaca, -20px -20px 60px #ffffff;
+color: var(--card-bg-color);
+}
+
+.social-button:active {
+border-radius: 50%;
+background: linear-gradient(145deg, #d6d6d6, #ffffff);
+box-shadow: inset 20px 20px 60px #cacaca, inset -20px -20px 60px #ffffff
+}
+
+.contact-details .icon-circle {
+display: flex;
+text-align: center;
+justify-content: center;
+align-items: center;
+background: linear-gradient(145deg, #d6d6d6, #ffffff);
+box-shadow: 20px 20px 60px #cacaca, -20px -20px 60px #ffffff;
+color: var(--card-bg-color);
+font-size: 21px;
+height: 42px;
+width: 42px;
+padding: 0 10px;
+}
+
+.card-profile-image {
+    max-width: 144px;
+    max-height: 144px;
+    width: 144px;
+    height: 144px;
+}
