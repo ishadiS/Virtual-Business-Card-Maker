@@ -3,7 +3,7 @@
 ---
 
 <br>
-This is a Web Platform to Make Virtual Business Cards for Business Owners using JavaScript, PHP, HTML, CSS & SQL.  Team CaStOr is the owners of CaStOr virtual business card web platform. This website is for those who need Business cards for the business or represent their job! We have created our goal by targeting this epidemic using SaaS sericea. For most businesses, it's time for digital marketing. 
+ This is a Web Platform to Make Virtual Business Cards for Business Owners using JavaScript, PHP, HTML, CSS & SQL.  Team CaStOr is the owners of CaStOr virtual business card web platform. This website is for those who need Business cards for the business or represent their job! We have created our goal by targeting this epidemic using SaaS sericea. For most businesses, it's time for digital marketing. 
  
 Today’s consumers were already making most purchasing decisions online before the pandemic, but now some people rarely leave the house. Now is the time to launch our business idea. The business card represents the company's brand. Not only does it convey important personal contact information such as name, title, email, website, address, and phone number, but oftentimes it is also the first exposure to the overall image of the business. Personal business cards are an essential item to have if someone interested in growing their network and building their personal brand. 
 
